@@ -1,0 +1,26 @@
+.page{
+    background-color: white;
+}
+.heading{
+    text-align: center;
+    position: relative;
+    top:100px;
+}
+.front-page-img{
+    height: 650px;
+    margin-left:33%;
+    margin-top: -20px;
+}
+.make-notes{
+    font-style: italic;
+    position: relative;
+    bottom:120px;
+    left:770px;
+    color: black;
+    
+    font-weight: 600;
+}
+.link{
+    text-decoration: none;
+
+}
